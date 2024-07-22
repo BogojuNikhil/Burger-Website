@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import { getallUsers } from '../../actions/userAction'
 import { useDispatch, useSelector } from 'react-redux'
 import Usercard from './Usercard';
-import Spinner from './../reusable_components/Spinner';
+import Spinner from '../reusable_components/Spinner';
 const UserRoleEditor = () => {
     const dispatch = useDispatch()
     const { users, loading, error } = useSelector(state => state.user) // Assuming the state has these fields

@@ -18,25 +18,25 @@ function Footer() {
           </Col>
           <Col md={4} className="text-center">
             <h5>Follow Us</h5>
-            <a href="#facebook" className="text-white mx-2">
+            <a href="https://facebook.com/profile.php?id=100012935553636" className="text-white mx-2">
               <FontAwesomeIcon icon={faFacebook} size="2x" />
             </a>
-            <a href="https://x.com/SaiAdusumilli1" className="text-white mx-2">
+            <a href="https://x.com/nikhil_bogoju" className="text-white mx-2">
               <FontAwesomeIcon icon={faTwitter} size="2x" />
             </a>
-            <a href="https://www.instagram.com/sai_adusumilli/?next=%2F" className="text-white mx-2">
+            <a href="https://www.instagram.com/_the_nikhil/" className="text-white mx-2">
               <FontAwesomeIcon icon={faInstagram} size="2x" />
             </a>
           </Col>
           <Col md={4} className="text-center text-md-right">
             <h5>Contact Us</h5>
-            <p className="small">Email: saimanikanta482@gmail.com</p>
-            <p className="small">Phone: +91-8919321632</p>
+            <p className="small">Email: bogojunikhil@gmail.com</p>
+            <p className="small">Phone: +91-8790219323</p>
           </Col>
         </Row>
         <Row>
           <Col className="text-center py-3">
-            <p className="small mb-0">&copy; 2024 Burger-King(Sai_Adusumilli). All Rights Reserved.</p>
+            <p className="small mb-0">&copy; 2024 Burger-King(Nikhil_Bogju). All Rights Reserved.</p>
           </Col>
         </Row>
       </Container>
